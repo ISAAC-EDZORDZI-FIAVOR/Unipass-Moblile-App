@@ -1,0 +1,264 @@
+{
+  "questionnaires": [
+    {
+      "question": "A process is a _______",
+      "answers": [
+        "a) Program in the memory",
+        "b) Program in the execution",
+        "c) Task",
+        "d) Single thread of execution"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Who is the father of Computers? ",
+      "answers": [
+        "a) James Gosling",
+        "b) Dennis Ritchie",
+        "c) Charles Babbage",
+        "d) Bjarne Stroustrup"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following is the correct abbreviation of COMPUTER?",
+      "answers": [
+        "a) Commonly Occupied Machines Used in Technical and Educational Research",
+        "b) Commonly Operated Machines Used in Technical and Educational Research",
+        "c) Commonly Oriented Machines Used in Technical and Educational Research",
+        "d) Commonly Operated Machines Used in Technical and Environmental Research"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the full form of CPU?",
+      "answers": [
+        "a) Central Processing Unit",
+        "b) Computer Processing Unit",
+        "c) Computer Principle Unit",
+        "d) Control Processing Unit"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which of the following language does the computer understand?.",
+      "answers": [
+        "a) Computer understands only Binary Language",
+        "b) Computer understands only C Language",
+        "c) Computer understands only Assembly Language",
+        "d) Computer understands only BASIC"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": " Which of the following computer language is written in binary codes only?",
+      "answers": [
+        "a) Pascal",
+        "b) C#",
+        "c) C",
+        "d) Machine language"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which of the following is the smallest unit of data in a computer?.",
+      "answers": [
+        "a) Byte",
+        "b) Bit",
+        "c) KB",
+        "d) Nibble"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following monitor looks like a television and are normally used with non-portable computer systems?.",
+      "answers": [
+        "a) LED",
+        "b) LCD",
+        "c) CRT",
+        "d) Flat Panel Monitors"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following is designed to control the operations of a computer??",
+      "answers": [
+        "a) User",
+        "b) System Software",
+        "c) Application Software",
+        "d) Utility Software"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following are physical devices of a computer?",
+      "answers": [
+        "a) Software",
+        "b) Hardware",
+        "c) System Software",
+        "d) Package"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following is known as the language made up of binary-coded instructions?",
+      "answers": [
+        "a) High level",
+        "b) BASIC",
+        "c) Machine",
+        "d) C"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": " Which of the following is not a type of computer on the basis of operation?.",
+      "answers": [
+        "a) Digital",
+        "b) Remote",
+        "c) Analog",
+        "d) Hybrid"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of the following isn’t a characteristic of High level languages?.",
+      "answers": [
+        "a) Machine code",
+        "b) Platform independent",
+        "c) Interactive execution",
+        "d) User-friendly"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": " The software designed to perform a specific task:",
+      "answers": [
+        "a) Package Software",
+        "b) Synchronous Software",
+        "c) Application Software",
+        "d) System Software"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "OSS stands for:.",
+      "answers": [
+        "a) Open System Service",
+        "b) Open System Software",
+        "c) Open Synchronized Software",
+        "d) Open Source Software"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Interpreter is used as a translator for __________",
+      "answers": [
+        "a) COBOL",
+        "b) Low level language",
+        "c) High Level Language",
+        "d) C"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which of the following is not a valid representation in bits??",
+      "answers": [
+        "a) 24-bit",
+        "b) 64-bit",
+        "c) 32-bit",
+        "d) 8-bit"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "What are the entities whose values can be changed called?.",
+      "answers": [
+        "a) Tokens",
+        "b) Modules",
+        "c) Constants",
+        "d) Variables"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which of the following is not a basic data type in C language?",
+      "answers": [
+        "a) float",
+        "b) real",
+        "c) int",
+        "d) char"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "What does FORTRAN stands for?",
+      "answers": [
+        "a) Formula Transfer",
+        "b) Formula Transformation",
+        "c) Format Transformation",
+        "d) Formula Translation"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "These devices provide a means of communication between a computer and outer world.",
+      "answers": [
+        "a) Storage",
+        "b) Compact",
+        "c) Drivers",
+        "d) I/O"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": " What does GUI stand for?",
+      "answers": [
+        "a) General User Instruction.",
+        "b) Ground User Interface.",
+        "c) General User Instruction.",
+        "d) Graphical User Interface."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "VDU stands for __________",
+      "answers": [
+        "a) Virtual Detection Unit",
+        "b) Visual Display Unit",
+        "c) Visual Detection Unit",
+        "d) Virtual Display Unit"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "question": "PCI stands for _________.",
+      "answers": [
+        "a) Peripheral Component Interconnect",
+        "b) Partial Component Interconnect",
+        "c) Peripheral Component Interaction",
+        "d) Partial Component Interaction"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "question": "Which of the following is used to hold running program instructions?.",
+      "answers": [
+        "a) Minor Devices",
+        "b) Virtual Storage",
+        "c) Internal Storage",
+        "d) Primary Storage"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "question": "RAID stands for __________.",
+      "answers": [
+        "a) Reusable array of individual disks",
+        "b) Reusable Array of independent disks",
+        "c) Redundant array of individual disks",
+        "d) Redundant array of independent disks"
+      ],
+      "correct_answer": 3
+    }
+  ]
+}
